@@ -1,7 +1,7 @@
 # Git入門
 
-# Description
+## Description
 +CMSGit導入に向けたGitレクチャー用リポジトリ
 
-# Link
+## Link
 [wiki](https://github.com/E-arai-ta/Git-Getting-Started-for-CMS/wiki)
